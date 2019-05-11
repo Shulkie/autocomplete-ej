@@ -1,0 +1,31 @@
+ya tnego el input tengo que agregarle el evento para que haga algo
+
+
+cada vez que tipeo algo se ejecute una funcion con el keyup
+dentro de esa funcion vamos a agregar el fetch
+con el value hago el fetch
+
+
+1) en el input agregar el keyup 
+
+2)OBTENER lo que escribimos en el input
+
+3) generarme la url 
+
+4) fetch devuelve promesa
+
+ 4.1) res.json
+ 4.2) hacer un for por todas las peliculas 
+ 4.3) por cada peli creamos el li que creamos dentro del ul \\\
+
+
+
+ 4.2- cobn la propiedad results (data.results) hago un for para que interactue con las peliculas que me da 
+ i> result.length y en ese for me creo un li con los datos que tengo que crear inneHTML o create element mas appenchild
+
+document.createElementh usando los datos, el titulo, y el id que es un atributo de ese li
+
+
+sumar una clase 
+
+
